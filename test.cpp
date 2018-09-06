@@ -1,7 +1,6 @@
-using namespace std;
 
 int main()
 {
-  cout<<"Hallo,World!"<<endl;
+  std::cout<<"Hallo,World!"<<std::endl;
   return 0;
 }
